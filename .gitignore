@@ -1,0 +1,5 @@
+# Generated certs and keys
+*.pem
+
+# Executable
+certainly
